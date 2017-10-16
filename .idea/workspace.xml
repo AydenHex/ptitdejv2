@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1f71bbc-9045-4890-a937-ee9ae6a325af" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="22" column="74" lean-forward="false" selection-start-line="22" selection-start-column="74" selection-end-line="63" selection-end-column="10" />
+              <folding>
+                <marker date="1508159419671" expanded="true" signature="1206:1397" ph="..." />
+                <marker date="1508159419671" expanded="true" signature="1415:1455" ph="..." />
+                <marker date="1508159419671" expanded="true" signature="1750:2387" ph="..." />
+                <marker date="1508159419671" expanded="true" signature="1879:2049" ph="..." />
+                <marker date="1508159419671" expanded="true" signature="2129:2220" ph="..." />
+                <marker date="1508159419671" expanded="true" signature="2314:2387" ph="..." />
+                <marker date="1508159419671" expanded="true" signature="2360:2381" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/sections/nav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <marker date="1508155709988" expanded="true" signature="839:966" ph="..." />
+                <marker date="1508155709988" expanded="true" signature="892:966" ph="..." />
+                <marker date="1508155709988" expanded="true" signature="924:954" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deconnexion.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/scripts/deconnexion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajouterDon.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/ajouterDon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="51" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1508159529810" expanded="true" signature="1732:2963" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="1861:2095" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="2175:2266" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="2359:2460" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="2519:2963" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="2598:2963" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="2647:2963" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="2814:2963" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="3307:3331" ph="SELECT * FRO... tb_secteur" />
+                <marker date="1508159529810" expanded="true" signature="3829:4141" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="3992:4141" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="4485:4508" ph="SELECT * FRO... tb_niveau" />
+                <marker date="1508159529810" expanded="true" signature="4994:5183" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="4994:5261" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="5157:5183" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="5605:5628" ph="SELECT * FRO... tb_classe" />
+                <marker date="1508159529810" expanded="true" signature="6113:6302" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="6113:6380" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="6276:6302" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="6724:6748" ph="SELECT * FRO... tb_aliment" />
+                <marker date="1508159529810" expanded="true" signature="7193:7413" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="7463:7659" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="7707:7838" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="7782:7798" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="7953:8031" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="8183:8378" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="8243:8332" ph="..." />
+                <marker date="1508159529810" expanded="true" signature="8261:8321" ph="{...}" />
+                <marker date="1508159529810" expanded="true" signature="8341:8378" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajouterBonus.php" pinned="false" current-in-tab="true">
+        <entry file="file://C:/wamp64/www/ptitdejv2/ajouterBonus.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1508160654924" expanded="true" signature="2755:2905" ph="SELECT dateD... tb_bonus" />
+                <marker date="1508160654924" expanded="true" signature="3221:3246" ph="..." />
+                <marker date="1508160654924" expanded="true" signature="3221:3247" ph="..." />
+                <marker date="1508160654924" expanded="true" signature="3221:3253" ph="..." />
+                <marker date="1508160654924" expanded="true" signature="3221:3452" ph="..." />
+                <marker date="1508160654924" expanded="true" signature="3579:3657" ph="..." />
+                <marker date="1508160654924" expanded="true" signature="3869:3958" ph="..." />
+                <marker date="1508160654924" expanded="true" signature="3887:3947" ph="{...}" />
+                <marker date="1508160654924" expanded="true" signature="3967:4004" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="104" lean-forward="false" selection-start-line="27" selection-start-column="104" selection-end-line="27" selection-end-column="104" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connect_utilisateur.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/scripts/connect_utilisateur.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <marker date="1508155551100" expanded="true" signature="128:190" ph="SELECT * FRO... tb_admin" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="operationDon.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/operationDon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="121" column="47" lean-forward="true" selection-start-line="121" selection-start-column="47" selection-end-line="121" selection-end-column="47" />
+              <folding>
+                <marker date="1508156260484" expanded="true" signature="1251:1442" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="1460:1505" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="1809:3076" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="1950:2200" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="2288:2387" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="2489:2600" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="2539:2560" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="2636:3076" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="2718:3076" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="2776:3076" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="2805:3012" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="3153:3345" ph="SELECT dateD... tb_donner" />
+                <marker date="1508156260484" expanded="true" signature="3824:4762" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="5183:6080" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="7229:7307" ph="..." />
+                <marker date="1508156260484" expanded="true" signature="7459:7524" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="supprimerDon.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/scripts/supprimerDon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <marker date="1508143924603" expanded="true" signature="253:358" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.css" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp64/www/ptitdejv2/css/dashboard.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="112" column="1" lean-forward="false" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dashboard.php" />
+        <option value="$PROJECT_DIR$/css/dashboard.css" />
+        <option value="C:/wamp64/www/ptitdejv2/css/scripts/ajouterDon.php" />
+        <option value="C:/wamp64/www/ptitdejv2/css/scripts/connect_bdd.php" />
+        <option value="C:/wamp64/www/ptitdejv2/css/scripts/getRequests.php" />
+        <option value="C:/wamp64/www/ptitdejv2/css/scripts/functions.php" />
+        <option value="C:/wamp64/www/ptitdejv2/css/scripts/ajoutDon.php" />
+        <option value="C:/wamp64/www/ptitdejv2/test.php" />
+        <option value="C:/wamp64/www/ptitdejv2/scripts/connect_bdd.php" />
+        <option value="C:/wamp64/www/ptitdejv2/scripts/ajoutDon.php" />
+        <option value="C:/wamp64/www/ptitdejv2/scripts/ModifieDon.php" />
+        <option value="C:/wamp64/www/ptitdejv2/scripts/supprimerDon.php" />
+        <option value="C:/wamp64/www/ptitdejv2/scripts/deconnexion.php" />
+        <option value="C:/wamp64/www/ptitdejv2/scripts/connect_utilisateur.php" />
+        <option value="C:/wamp64/www/ptitdejv2/sections/nav.php" />
+        <option value="C:/wamp64/www/ptitdejv2/operationDon.php" />
+        <option value="C:/wamp64/www/ptitdejv2/dashboard.php" />
+        <option value="C:/wamp64/www/ptitdejv2/ajouterDon.php" />
+        <option value="C:/wamp64/www/ptitdejv2/css/dashboard.css" />
+        <option value="C:/wamp64/www/ptitdejv2/index.php" />
+        <option value="C:/wamp64/www/ptitdejv2/ajouterBonus.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="1929" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ptitdej" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ptitdejv2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ptitdej" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ptitdejv2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ptitdej" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ptitdejv2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scripts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="last_opened_file_path" value="C:/wamp64/www" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\ptitdejv2" />
+      <recent name="C:\wamp64\www\ptitdejv2\css\scripts" />
+      <recent name="C:\wamp64\www\ptitdejv2\img" />
+      <recent name="C:\wamp64\www" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f71bbc-9045-4890-a937-ee9ae6a325af" name="Default" comment="" />
+      <created>1508135539631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508135539631</updated>
+      <workItem from="1508135544382" duration="14551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/wamp64/www/ptitdejv2/css/scripts/connect_bdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/css/scripts/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/css/scripts/ajoutDon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/scripts/connect_bdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/scripts/ajoutDon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="31" column="103" lean-forward="false" selection-start-line="31" selection-start-column="103" selection-end-line="31" selection-end-column="103" />
+          <folding>
+            <marker date="1508142606856" expanded="true" signature="445:560" ph="SELECT coeff... tb_bonus" />
+            <marker date="1508142606856" expanded="true" signature="828:894" ph="INSERT INTO tb_donner... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/scripts/SupprimerDon">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/scripts/ModifieDon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <marker date="1508143914724" expanded="true" signature="313:421" ph="UPDATE tb_do... " />
+            <marker date="1508143914724" expanded="true" signature="313:432" ph="UPDATE tb_do... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/scripts/supprimerDon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <marker date="1508143924603" expanded="true" signature="253:358" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/scripts/deconnexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/scripts/connect_utilisateur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1508155551100" expanded="true" signature="128:190" ph="SELECT * FRO... tb_admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/sections/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <marker date="1508155709988" expanded="true" signature="839:966" ph="..." />
+            <marker date="1508155709988" expanded="true" signature="892:966" ph="..." />
+            <marker date="1508155709988" expanded="true" signature="924:954" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="112" column="1" lean-forward="false" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="104" lean-forward="false" selection-start-line="27" selection-start-column="104" selection-end-line="27" selection-end-column="104" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/ajouterDon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="51" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1508159529810" expanded="true" signature="1732:2963" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="1861:2095" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="2175:2266" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="2359:2460" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="2519:2963" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="2598:2963" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="2647:2963" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="2814:2963" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="3307:3331" ph="SELECT * FRO... tb_secteur" />
+            <marker date="1508159529810" expanded="true" signature="3829:4141" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="3992:4141" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="4485:4508" ph="SELECT * FRO... tb_niveau" />
+            <marker date="1508159529810" expanded="true" signature="4994:5183" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="4994:5261" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="5157:5183" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="5605:5628" ph="SELECT * FRO... tb_classe" />
+            <marker date="1508159529810" expanded="true" signature="6113:6302" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="6113:6380" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="6276:6302" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="6724:6748" ph="SELECT * FRO... tb_aliment" />
+            <marker date="1508159529810" expanded="true" signature="7193:7413" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="7463:7659" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="7707:7838" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="7782:7798" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="7953:8031" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="8183:8378" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="8243:8332" ph="..." />
+            <marker date="1508159529810" expanded="true" signature="8261:8321" ph="{...}" />
+            <marker date="1508159529810" expanded="true" signature="8341:8378" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/operationDon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="121" column="47" lean-forward="true" selection-start-line="121" selection-start-column="47" selection-end-line="121" selection-end-column="47" />
+          <folding>
+            <marker date="1508156260484" expanded="true" signature="1251:1442" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="1460:1505" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="1809:3076" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="1950:2200" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="2288:2387" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="2489:2600" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="2539:2560" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="2636:3076" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="2718:3076" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="2776:3076" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="2805:3012" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="3153:3345" ph="SELECT dateD... tb_donner" />
+            <marker date="1508156260484" expanded="true" signature="3824:4762" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="5183:6080" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="7229:7307" ph="..." />
+            <marker date="1508156260484" expanded="true" signature="7459:7524" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="22" column="74" lean-forward="false" selection-start-line="22" selection-start-column="74" selection-end-line="63" selection-end-column="10" />
+          <folding>
+            <marker date="1508159419671" expanded="true" signature="1206:1397" ph="..." />
+            <marker date="1508159419671" expanded="true" signature="1415:1455" ph="..." />
+            <marker date="1508159419671" expanded="true" signature="1750:2387" ph="..." />
+            <marker date="1508159419671" expanded="true" signature="1879:2049" ph="..." />
+            <marker date="1508159419671" expanded="true" signature="2129:2220" ph="..." />
+            <marker date="1508159419671" expanded="true" signature="2314:2387" ph="..." />
+            <marker date="1508159419671" expanded="true" signature="2360:2381" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/ptitdejv2/ajouterBonus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1508160654924" expanded="true" signature="2755:2905" ph="SELECT dateD... tb_bonus" />
+            <marker date="1508160654924" expanded="true" signature="3221:3246" ph="..." />
+            <marker date="1508160654924" expanded="true" signature="3221:3247" ph="..." />
+            <marker date="1508160654924" expanded="true" signature="3221:3253" ph="..." />
+            <marker date="1508160654924" expanded="true" signature="3221:3452" ph="..." />
+            <marker date="1508160654924" expanded="true" signature="3579:3657" ph="..." />
+            <marker date="1508160654924" expanded="true" signature="3869:3958" ph="..." />
+            <marker date="1508160654924" expanded="true" signature="3887:3947" ph="{...}" />
+            <marker date="1508160654924" expanded="true" signature="3967:4004" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
